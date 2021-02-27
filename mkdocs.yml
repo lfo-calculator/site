@@ -9,7 +9,10 @@ docs_dir: "docs"
 repo_url: https://github.com/lfo-calculator/site
 nav:
   - Home: index.md
-  - About: Introduction.md
+  - Resources: Resources.md
+  - FAQ: FAQ.md
+  - Help: Help.md
+  - Use the LFO Calculator: https://beta.lfocalculator.org
 
 plugins:
   - search
@@ -27,6 +30,7 @@ theme:
     - navigation.instant
 markdown_extensions:
   - admonition
+  - attr_list
   - footnotes
   - meta
   - pymdownx.details
@@ -41,3 +45,5 @@ extra_javascript:
   - javascripts/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - stylesheets/extra.css
