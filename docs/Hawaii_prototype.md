@@ -1,5 +1,48 @@
 # The Hawaii LFO Calculator Prototype
 
+## Software Approach
+
+Catala is already written in OCaml
+
+## Data Model
+
+### Input format for Catala backend
+
+```json
+DEFENDANT:
+{​​​​​​​
+  age: NUMBER;
+  prior offenses: OFFENSE LIST
+}​​​​​​​
+
+
+OFFENSE:
+{​​​​​​​
+  offense: "HRS-XXXX-XX-Y";
+  date: "YYYY-MM-DD";
+  url: <link-to-github-HRS>
+  see_also: [ <link-to-github-HRS>; ... ] // list
+}​​​​​​​
+```
+
+### Output from Catala backend
+
+```json
+ : list of PENALTIES
+
+    
+{​​​​​​​ type: "fine", min: NUMBER, max: NUMBER }​​​​​​​
+    
+{​​​​​​​ type: "days", min: NUMBER, max: NUMBER }​​​​​​​
+    
+{​​​​​​​ type: "fee", amount: NUMBER }​​​​​​​
+```
+
+Some of these with a field that says waivable: true, etc. -- or constraints on how to be applied
+
+```json
+{​​​​​​​​​​​​​ type: "one_or_the_other", charge1: CHARGE, charge2: CHARGE }​​​​​​​​​​​​​
+```
 ## Links and Resources
 
 [Searchable Hawaii Statutory Code](https://sammade.github.io/aloha-io/)
