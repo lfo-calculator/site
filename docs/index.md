@@ -1,6 +1,6 @@
 # Welcome to the LFO Calculator Project
 
-[Use the LFO Calculator](https://beta.lfocalculator.org){: .md-button }
+[Use the LFO Calculator](https://beta.lfocalculator.org){: .md-button .md-button--primary }
 
 The Legal Financial Obligation (LFO) Calculator was built to help Washington State judges adjudicate cases involving LFOs. The calculator:
 
