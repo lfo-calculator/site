@@ -2,7 +2,7 @@
 
 ## Software Approach
 
-Catala is already written in OCaml
+[Catala](https://catala-lang.org) is already written in OCaml. Given the desire to preserve the OCaml language structure but provide a more modern front-end framework support, [ReasonML and Bucklescript](https://dev.to/yakimych/adding-reasonml-to-a-vue-application-1j9c) will be used to [enable a Vue / Vuefify front-end](https://lfo-calculator.github.io/vue-hi/)
 
 ## Data Model
 

@@ -19,6 +19,6 @@ jobs:
       - name: Change Directory
         run: cd ${{ github.workspace }}
       - name: Install MkDocs
-        run: make install
+        run: pip install mkdocs
       - name: Lint
         run: make lint
