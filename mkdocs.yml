@@ -14,8 +14,10 @@ nav:
   - FAQ: FAQ.md
   - Help: Help.md
   - Use the LFO Calculator: https://beta.lfocalculator.org
-  - Hawaii: 
+  - LFO 2.0: 
+    - LFO 2.0: LFO2dot0.md
     - Hawaii Prototype effort notes: Hawaii_prototype.md
+    - Hawaii Legal notes: Hawaii_legal_notes.md
     - Hawaii Vue front end: https://lfo-calculator.github.io/vue-hi/
 
 plugins:

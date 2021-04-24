@@ -1,4 +1,33 @@
-# The Hawaii LFO Calculator Prototype
+# Hawaii Catala Prototype
+
+## Overview
+
+While the LFO Calculator was originally and is still principally focused on addressing the injustices and lifetime financial burdens that arise from ostensibly "lower-level" infractions, a generalized LFO Calculator must of necessity address the full suite of charges defendants might face, which includes more serious infractions involving imprisonment.
+
+## Types of Penalties
+
+The Calculator identifies four sentencing "types"
+
+* Fees
+* Fines
+* Imprisonment
+* Other
+
+While fees and fines are both monetary penalties, they often serve different purposes and have different provisions. They are considered separately by legislators and administrators, and so are treated separately by the Calculator.
+
+Charges that impose imprisonment can be suspended, or probation can be substituted depending on the nature of the crime, conviction history, 'character' of the defendant, and other aggravating or mitigating factors.
+
+## Interaction Dynamic
+
+When a defendant faces charges, it is in the context of a legal case brought by prosecutors who will assemble a set of charges and a legal strategy to prosecute those charges.  Given a case where a judge or jury has ruled that a defendant is guilty of one or more of the charges at issue, the judge has the obligation to sentence the defendant. The Calculator is designed to provide the judge the proper decision-making options to evaluate what sentences the just a) **must** and b) **may** apply, subject to ameliorating conditions *cited in the statutes* the judge may consider.  
+
+These ameliorating conditions are typically:
+
+* age of the defendant
+* the defendant's "ability to pay" (this is a complex determination)
+* whether the defendant has previously been charged for the offenses at issue
+* the nature of the offenses themselves and the 'character of the defendant'
+
 
 ## Software Approach
 
