@@ -53,17 +53,18 @@ According to Section [&#167; 291D-12 Powers of the district court judge sitting 
 
 Chapter 291 of the Hawaii Revised Statutes can be roughly divided into 12 parts identified by Roman numeral in the statutes
 
-[I. General Provisions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-1/)
-[II. Accidents and Traffic Reports](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-11/)
-[III. Obedience to and Effect of Traffic Laws](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-21/)
-[IV. Traffic Signs, Symbols, and Markings](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-31/)
-[V. Driving on the Roadway](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-41/)
-[VI. Right of Way](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-61/)
-[VII. Pedestrians Rights and Duties](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-71/)
-[VIII. Turning and Starting and Signals on Stopping and Turning](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-81/)
-[IX. Special Stops Required](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-91/)
-[X. Speed Restrictions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-101/)
-[XI. Stopping, Standing, and Parking](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-111/)
+- [I. General Provisions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-1/)
+- [II. Accidents and Traffic Reports](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-11/)
+- [III. Obedience to and Effect of Traffic Laws](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-21/)
+- [IV. Traffic Signs, Symbols, and Markings](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-31/)
+- [V. Driving on the Roadway](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-41/)
+- [VI. Right of Way](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-61/)
+- [VII. Pedestrians Rights and Duties](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-71/)
+- [VIII. Turning and Starting and Signals on Stopping and Turning](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-81/)
+- [IX. Special Stops Required](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-91/)
+- [X. Speed Restrictions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-101/)
+- [XI. Stopping, Standing, and Parking](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-111/)
+- [XII. Miscellaneous Rules](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-121/)
 
 ### Mapping of Chapter 291 to &#167; 607-4 Fees
 
