@@ -48,3 +48,28 @@ According to Section [&#167; 291D-12 Powers of the district court judge sitting 
 6. To approve the issuance or renewal of a driver’s license or instruction permit pursuant to section 286-109(c);
 7. To issue penal summonses and bench warrants and initiate contempt of court proceedings in proceedings conducted pursuant to section 291D-13;
 8. To issue penal summonses and bench warrants and initiate failure to appear proceedings in proceedings conducted pursuant to section 291D-5(d)(10)
+
+## Breakdown of Chapter 291. Traffic Rules and Provisions
+
+Chapter 291 of the Hawaii Revised Statutes can be roughly divided into 12 parts identified by Roman numeral in the statutes
+
+[I. General Provisions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-1/)
+[II. Accidents and Traffic Reports](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-11/)
+[III. Obedience to and Effect of Traffic Laws](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-21/)
+[IV. Traffic Signs, Symbols, and Markings](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-31/)
+[V. Driving on the Roadway](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-41/)
+[VI. Right of Way](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-61/)
+[VII. Pedestrians Rights and Duties](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-71/)
+[VIII. Turning and Starting and Signals on Stopping and Turning](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-81/)
+[IX. Special Stops Required](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-91/)
+[X. Speed Restrictions](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-101/)
+[XI. Stopping, Standing, and Parking](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-111/)
+
+### Mapping of Chapter 291 to &#167; 607-4 Fees
+
+| § 607 provision | Chapter 291 applicable section |
+| ----- | ----- |
+| § 607-4.7 ... "traffic citations that involve stopping (when prohibited), standing, or parking"  | [XI. Stopping, Standing, and Parking](https://sammade.github.io/aloha-io/title-17/chapter-291c/section-291c-111/)  |
+| § 607-4.8 Administrative costs associated with the processing of traffic citations which do not involve stopping, standing, or parking… | all other provisions of [291C](https://sammade.github.io/aloha-io/title-17/chapter-291c/) (see above) |
+|§ 607-4.9 Administrative costs associated with the processing of traffic citations issued for violations of a statute or ordinance relating to vehicles or their drivers, or owners, except those as provided by paragraphs (7) and (8) | principally [Chapter 291E. Use of Intoxicants While Operating a Vehicle](https://sammade.github.io/aloha-io/title-17/chapter-291e/) |
+
